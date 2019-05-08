@@ -1,0 +1,1 @@
+"The effort of communicating to someone else forces you to pay more attention and learn more" http://www.wired.com/2013/09/how-successful-networks-nurture-good-ideas-2/all #education #learning 
