@@ -1,6 +1,6 @@
 # THEORIES OF CHANGE PATTERNS
 
-This pattern language draft is base on a paper proposing theories of change for sustainability science and reviewing ten propositions on how to leverage the potentials and to confront the challenges of working with ToCs in sustainability science.
+This pattern language draft is based on a paper proposing theories of change for sustainability science and reviewing ten propositions on how to leverage the potentials and to confront the challenges of working with ToCs in sustainability science. The content has been dapated in a pattern language format to highlight essentials concepts, knowledge gaps and the link between them.
 
 Source: Theories of change in sustainability science Understanding how change happens. Oberlack et al, 2019.
 
