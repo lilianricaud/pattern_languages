@@ -201,6 +201,8 @@ Adapted from https://en.wikipedia.org/wiki/Theory_of_change#Basic_structure
 
 ## IDENTIFY LONG TERM GOAL
 
+Theory of Change begins by first working out program goals or desired impact and working backwards on outcome pathways, rather than engaging in conventional forward oriented “so-that” reasoning.
+
 identifying a workable long-term goal and long-term outcomes. The long-term goal should be something the initiative can realistically achieve and that everyone involved understands.
 
 ## IDENTIFY PATHWAY / CONDITIONS FOR SUCCESS
