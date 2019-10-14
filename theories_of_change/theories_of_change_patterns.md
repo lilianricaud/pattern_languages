@@ -220,6 +220,13 @@ Once a long-term goal is identified, the group then considers: “What condition
 
 These outcomes act as preconditions to the long-term outcome. The process of identifying preconditions continues, drilling down the pathway by posing fundamental questions such as: “What has to be in place for this outcome to be achieved?” and “Are these preconditions sufficient for the outcome to be achieved?” 
 
+
+ The Annie E. Casey Foundation proposes mapping an organization’s social change work along three criteria: Impact, Influence, Leverage.
+
+    The impact of your work is its program outcomes
+    Your influence is how much other actors change as a result of your work
+    Your leverage is how much investment others put into your model.
+
 ## DEFINE INDICATORS
 
 The ultimate success of any Theory of Change lies in its ability to demonstrate progress on the achievement of outcomes. Evidence of success confirms the theory and indicates that the initiative is effective. Therefore, the outcomes in a Theory of Change must be coupled with indicators that guide and facilitate measurement. 
