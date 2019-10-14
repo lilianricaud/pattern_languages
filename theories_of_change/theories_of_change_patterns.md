@@ -5,9 +5,16 @@ This pattern language draft is based on a paper proposing theories of change for
 Source: Theories of change in sustainability science Understanding how change happens. Oberlack et al, 2019.
 
 
+
+
 ## THEORIES OF CHANGE
 
 Theories of change (ToCs) are defined as the **mental representations and theoretical assumptions that explain how and why activities of an initiative** (e. g., projects, programmes, organizations) **generate particular changes**.
+
+Theory of Change begins by first working out program goals or desired impact and working backwards on outcome pathways, rather than engaging in conventional forward oriented “so-that” reasoning.
+
+In Theory of Change, by contrast, the group begins not with its intervention but with its long-term goal and outcomes and then works backward (in time) toward the earliest changes that need to occur. Only when the pathway has been developed is it time to consider which interventions will best produce the outcomes in the pathway. 
+
 
 they generally trigger debate among stakeholders and/or evaluators of an initiative regarding the hypothesized and observed effects of actions as well as regarding underlying assumptions about how change happens.
 
@@ -201,7 +208,7 @@ Adapted from https://en.wikipedia.org/wiki/Theory_of_change#Basic_structure
 
 ## IDENTIFY LONG TERM GOAL
 
-Theory of Change begins by first working out program goals or desired impact and working backwards on outcome pathways, rather than engaging in conventional forward oriented “so-that” reasoning.
+
 
 identifying a workable long-term goal and long-term outcomes. The long-term goal should be something the initiative can realistically achieve and that everyone involved understands.
 
