@@ -217,5 +217,7 @@ The ultimate success of any Theory of Change lies in its ability to demonstrate 
 
 Indicators may be said to operationalize the outcomes – that is, they make the outcomes understandable in concrete, observable and measurable terms. The relationship of indicator to outcome can be confusing and may be clarified with this simple formula: “I’ll know [outcome reached] when I see [indicator].” For example, “I’ll know that teenagers in the program understand the prenatal nutrition and health guidelines when I see program participants identifying foods that are good sources of nutrition.” Ideally, every outcome on the outcomes pathway (below the dashed accountability ceiling) should have an indicator, but available resources often make that difficult to do.
 
+## DEFINE EVALUATION SYSTEM
+
 Just as development of a Theory of Change is a participatory process, a ToC-based monitoring and evaluation system can be designed in a participatory way. For example, grant managers can be involved in choosing the outcomes of greatest interest to them in their decision-making. Similarly, people on the ground can have input into which indicators to use and how to operationalize them, choices of instruments and methods of data collection, and which existing sources of data may be used in tracking indicators.
 
