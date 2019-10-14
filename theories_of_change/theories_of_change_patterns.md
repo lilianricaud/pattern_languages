@@ -195,3 +195,27 @@ How transformation in the system of concern unfold.
 Characterize what the ROLE OF KNOWLEDGE in shaping TRANSFORMATION for SYSTEMIC CHANGE 
 
 
+# THEORIES OF CHANGE PROCESS
+
+Adapted from https://en.wikipedia.org/wiki/Theory_of_change#Basic_structure
+
+## IDENTIFY LONG TERM GOAL
+
+identifying a workable long-term goal and long-term outcomes. The long-term goal should be something the initiative can realistically achieve and that everyone involved understands.
+
+## IDENTIFY PATHWAY / CONDITIONS FOR SUCCESS
+
+Once a long-term goal is identified, the group then considers: “What conditions must be in place for us to reach the goal? Any such necessary conditions should be shown as outcomes on the Theory of Change pathway, underneath the long-term outcome.
+
+## DRILL DOWN PATHWAY
+
+These outcomes act as preconditions to the long-term outcome. The process of identifying preconditions continues, drilling down the pathway by posing fundamental questions such as: “What has to be in place for this outcome to be achieved?” and “Are these preconditions sufficient for the outcome to be achieved?” 
+
+## DEFINE INDICATORS
+
+The ultimate success of any Theory of Change lies in its ability to demonstrate progress on the achievement of outcomes. Evidence of success confirms the theory and indicates that the initiative is effective. Therefore, the outcomes in a Theory of Change must be coupled with indicators that guide and facilitate measurement. 
+
+Indicators may be said to operationalize the outcomes – that is, they make the outcomes understandable in concrete, observable and measurable terms. The relationship of indicator to outcome can be confusing and may be clarified with this simple formula: “I’ll know [outcome reached] when I see [indicator].” For example, “I’ll know that teenagers in the program understand the prenatal nutrition and health guidelines when I see program participants identifying foods that are good sources of nutrition.” Ideally, every outcome on the outcomes pathway (below the dashed accountability ceiling) should have an indicator, but available resources often make that difficult to do.
+
+Just as development of a Theory of Change is a participatory process, a ToC-based monitoring and evaluation system can be designed in a participatory way. For example, grant managers can be involved in choosing the outcomes of greatest interest to them in their decision-making. Similarly, people on the ground can have input into which indicators to use and how to operationalize them, choices of instruments and methods of data collection, and which existing sources of data may be used in tracking indicators.
+
