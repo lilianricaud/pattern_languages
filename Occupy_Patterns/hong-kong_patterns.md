@@ -77,6 +77,11 @@ Protest happening inside supermarkets, making it difficult for police to use tea
 
 all protestors wear a hard hat.
 
+## BLOSSOM EVERYWHERE
+Hong Kong protesters have deployed a new strategy of popping up in small groups in multiple locations across the city in an effort to avoid arrest, during their ongoing campaign against police and the local government.
+
+Small flashmobs of protesters demonstrated across a dozen districts after a call for protesters to “blossom everywhere” on Sunday, with many staying closer to home where they could evade police on foot or by bus.
+
 ## source
 Antony Dapiran. “Be Water!”: seven tactics that are winning Hong Kong's democracy revolution 
 https://www.newstatesman.com/world/2019/08/be-water-seven-tactics-are-winning-hong-kongs-democracy-revolution
@@ -84,3 +89,5 @@ https://www.newstatesman.com/world/2019/08/be-water-seven-tactics-are-winning-ho
 Oiwan Lam The organisation and future of Hong Kong's 'open source' anti-extradition law movement | Hong Kong Free Press HKFP
 
 https://www.hongkongfp.com/2019/07/21/organisation-future-hong-kongs-open-source-anti-extradition-law-movement/
+
+https://www.theguardian.com/world/2019/oct/13/hong-kong-protesters-flashmobs-blossom-everywhere
