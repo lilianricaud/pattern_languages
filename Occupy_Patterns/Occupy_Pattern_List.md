@@ -132,6 +132,11 @@ Therefore, use creative and non violent techniques such as CLOWN BRIGADES, HUG B
 
 In NDLL, participants were fighting police with strategic weakness: half naked, they would crawl around police agents feet, making it very difficult  for police to fight them using violence.
 
+## ANTI LACRYMO TECHNIQUES
+Les parapluies sont employés pour arrêter les jets de lacrymo en spray, qui brûlent les yeux et gorges des barricadier-e-s, peu équipé-e-s pour résister à ces produits.
+
+La coopération permet à l’opposition de tenir : les résistant-e-s asphyxié-e-s par la lacrymo crient "RELAIS", d’autres viennent les remplacer sur la barricade. Une bâche est finalement amenée et contient encore mieux les jets de lacrymo, des slogans sont entonnés pour se redonner du courage
+
 # Source / licence
 This document is provided under CC-BY-SA licence.
 
