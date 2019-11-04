@@ -208,6 +208,10 @@ http://www.mecanicartes.com/mecanicartes/
 
 - commonspoly: http://commonspoly.cc/
 
+## Des essentiels pour concevoir des espace game
+http://scape.enepe.fr/-escape-game-l-essentiel-.html
+
+
 ## Source
 contributeurs patterns jeux: Sylvain Guignard (sylvainguignard@hotmail.com)
 Documentation: Lilian Ricaud
