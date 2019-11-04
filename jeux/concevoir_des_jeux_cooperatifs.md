@@ -24,7 +24,7 @@ Ce document est un travail en cours, vous pouvez contribuer en modifiant le fich
 
 ## Liste des patterns de jeux coopératifs
 
-patterns spécifiques aux jeux coopératifs
+**patterns spécifiques aux jeux coopératifs**
 
 
 ### OBJECTIF COMMUN
