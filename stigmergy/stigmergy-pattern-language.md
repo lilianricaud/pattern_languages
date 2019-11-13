@@ -65,7 +65,7 @@ TRACES must be perceptibles to a degree so that at least some AGENTS can find th
 
 # OPEN-ALLOCATION
 
-Have open allocation, AGENTS are autnomous, can choose where and how to work, teams (NODES) emerge.
+Have open allocation, AGENTS are autonomous, can choose where and how to work, teams (NODES) emerge.
 
 ---
 
